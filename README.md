@@ -1,4 +1,6 @@
-# Holberton Smiling School (Bootstrap Project)
+# Atlas Smiling School (JavaScript Project)
+
+Author - James Hamby (james.hamby@atlasschool.com)
 
 These group of web pages were coded from scratch with the help of the Boostrap Framework and based on some design models given on Figma.
 
